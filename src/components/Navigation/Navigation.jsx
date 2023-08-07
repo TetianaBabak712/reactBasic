@@ -17,6 +17,7 @@ import { display } from '@mui/system';
 import { flexbox } from '@mui/system';
 
 
+
 const pages = ['Home', 'Movies', 'TV Show'];
 
 
